@@ -82,11 +82,8 @@ With examples of:
 * Status codes
 
 ### ✅ Clean Folder Structure
-
 Each major part of Express is separated into folders so you can revisit concepts easily.
-
 ### ✅ Beginner‑friendly Code + Explanation
-
 Your project is structured so even a new learner can understand the flow.
 
 ---
@@ -165,5 +162,4 @@ You can expand the repo by adding:
 ## 💬 Final Notes
 
 This repository reflects your complete understanding of Express. It's perfect for GitHub, college, resume, and future projects.
-
 If you want help adding badges, screenshots, or improving the README design, just tell me!
